@@ -9,11 +9,11 @@
   },
   {
     "question": "What are Tickets and Points?",
-    "answer": "During an Epoch, you can earn two key assets: Ecosystem Tickets and Ecosystem Points. \n- Ecosystem Tickets are earned daily by completing on-chain missions. \n- Ecosystem Points are automatically accumulated when you provide liquidity to designated pools.\nEach Ticket and Point is associated with a specific partner project (e.g., Superwalk Ticket, DragonSwap Point). At the end of an Epoch, your accumulated Tickets and Points determine your share of Kaia Tokens and Ecosystem Token rewards."
+    "answer": "During an Epoch, you can earn two key assets: Ecosystem Tickets and Ecosystem Points. \n\n- Ecosystem Tickets are earned daily by completing on-chain missions. \n- Ecosystem Points are automatically accumulated when you provide liquidity to designated pools.\n\nEach Ticket and Point is associated with a specific partner project (e.g., Superwalk Ticket, DragonSwap Point). At the end of an Epoch, your accumulated Tickets and Points determine your share of Kaia Tokens and Ecosystem Token rewards."
   },
   {
     "question": "How can I earn Tickets and Points?",
-    "answer": "You can earn Ecosystem Tickets and Ecosystem Points in the following ways: \n- Ecosystem Tickets: Earned by completing daily on-chain missions. You must claim them manually after completing the required tasks. \n- Ecosystem Points: Earned automatically by providing liquidity to designated pools. Points accumulate hourly but stop when liquidity is removed."
+    "answer": "You can earn Ecosystem Tickets and Ecosystem Points in the following ways: \n\n- Ecosystem Tickets: Earned by completing daily on-chain missions. You must claim them manually after completing the required tasks. \n- Ecosystem Points: Earned automatically by providing liquidity to designated pools. Points accumulate hourly but stop when liquidity is removed."
   },
   {
     "question": "Do Tickets and Points expire?",
@@ -21,7 +21,7 @@
   },
   {
     "question": "Is there a minimum amount required to start earning?",
-    "answer": "Yes. To start earning Tickets and Points, you must meet the following minimum requirements: \n- Ecosystem Tickets: You must stake at least $10 worth of the required Ecosystem Token as specified in the Daily Mission. \n- Ecosystem Points: You must provide at least $1 in liquidity to a designated pool to start accumulating Points."
+    "answer": "Yes. To start earning Tickets and Points, you must meet the following minimum requirements: \n\n- Ecosystem Tickets: You must stake at least $10 worth of the required Ecosystem Token as specified in the Daily Mission. \n- Ecosystem Points: You must provide at least $1 in liquidity to a designated pool to start accumulating Points."
   },
   {
     "question": "Is there a limit to how many Tickets or Points I can earn per day?",
@@ -29,7 +29,7 @@
   },
   {
     "question": "How do I acquire Kaia tokens or other ecosystem tokens to participate?",
-    "answer": "You can acquire Kaia Tokens and other Ecosystem Tokens through the following methods: \n- Buy KAIA Token: Purchase KAIA Tokens with fiat using Alchemy Pay onn the Portal’s Buy menu. \n- Centralized Exchanges (CEX): Trade on platforms like Binance, OKX, and Bithumb. \n- Decentralized Exchanges (DEX): Swap tokens on Kaia ecosystem DEXs such as DragonSwap and Capybara. \n- Bridging from Other Chains: Transfer assets from external chains to the Kaia chain via the Bridge tab on the portal. Both Stargate and Wormhole bridges are supported. \nCheck which assets are supported by the liquidity pool before providing liquidity. Even for the same token (e.g. USDC), USDC sent via Stargate and USDC sent via Wormhole are treated as different assets on Kaia’s DeFi ecosystem."
+    "answer": "You can acquire Kaia Tokens and other Ecosystem Tokens through the following methods: \n\n- Buy KAIA Token: Purchase KAIA Tokens with fiat using Alchemy Pay onn the Portal’s Buy menu. \n- Centralized Exchanges (CEX): Trade on platforms like Binance, OKX, and Bithumb. \n- Decentralized Exchanges (DEX): Swap tokens on Kaia ecosystem DEXs such as DragonSwap and Capybara. \n- Bridging from Other Chains: Transfer assets from external chains to the Kaia chain via the Bridge tab on the portal. Both Stargate and Wormhole bridges are supported. \n\nCheck which assets are supported by the liquidity pool before providing liquidity. Even for the same token (e.g. USDC), USDC sent via Stargate and USDC sent via Wormhole are treated as different assets on Kaia’s DeFi ecosystem."
   },
   {
     "question": "How are token rewards calculated?",
@@ -37,7 +37,7 @@
   },
   {
     "question": "How and when are rewards distributed?",
-    "answer": "All token rewards will be distributed after the Epoch ends, following the announced distribution schedule. \n- Rewards will be distributed once per month over a three-month period. \n- Participants must manually claim their rewards through the designated Claim Page. \nThe exact distribution timeline will be announced after the Epoch concludes."
+    "answer": "All token rewards will be distributed after the Epoch ends, following the announced distribution schedule. \n\n- Rewards will be distributed once per month over a three-month period. \n- Participants must manually claim their rewards through the designated Claim Page. \n\nThe exact distribution timeline will be announced after the Epoch concludes."
   },
   {
     "question": "Where can I claim my rewards?",
@@ -45,11 +45,11 @@
   },
   {
     "question": "How long do I have to claim my rewards? What happens if I forget?",
-    "answer": "You must claim your rewards within the designated period after the Epoch ends. \n- The exact claim deadline will be announced after the Epoch ends. \n- Unclaimed rewards may expire if not claimed within the specified timeframe. \n- Expired rewards cannot be recovered once the claim period has passed. \nTo avoid losing your rewards, make sure to claim them on time through the Kaia Portal → Mission → Claim tab."
+    "answer": "You must claim your rewards within the designated period after the Epoch ends. \n\n- The exact claim deadline will be announced after the Epoch ends. \n- Unclaimed rewards may expire if not claimed within the specified timeframe. \n- Expired rewards cannot be recovered once the claim period has passed. \n\nTo avoid losing your rewards, make sure to claim them on time through the Kaia Portal → Mission → Claim tab."
   },
   {
     "question": "How do Boosts work? Can they be stacked?",
-    "answer": "There are two types of Boosts in Epoch#2: \n- Epoch#1 LP Boost: For accounts that accumulated Portal Points in Epoch#1. Grants a 1.1x multiplier on Ecosystem Points. \n- Early Access Boost: For users who pre-registered during the Early Access period. Grants a 1.05x multiplier on Ecosystem Points. \nBoosts cannot be stacked. If eligible for both, only the higher Boost will apply."
+    "answer": "There are two types of Boosts in Epoch#2: \n\n- Epoch#1 LP Boost: For accounts that accumulated Portal Points in Epoch#1. Grants a 1.1x multiplier on Ecosystem Points. \n- Early Access Boost: For users who pre-registered during the Early Access period. Grants a 1.05x multiplier on Ecosystem Points. \n\nBoosts cannot be stacked. If eligible for both, only the higher Boost will apply."
   },
   {
     "question": "What should I do if my Points are not accumulating correctly?",
