@@ -1,10 +1,5 @@
 [
   {
-    "name": "Avalon Labs",
-    "img": "",
-    "link": "https://app.avalonfinance.xyz/dashboard/?marketName=proto_kaia_v3"
-  },
-  {
     "name": "CAPYBARA",
     "img": "",
     "link": "https://dex.capybara.exchange/en/pool"
@@ -13,11 +8,6 @@
     "name": "DragonSwap",
     "img": "",
     "link": "https://dgswap.io/farms"
-  },
-  {
-    "name": "Fantrie",
-    "img": "https://config.kaia.io/portal/partner-icons/fantrie.svg",
-    "link": "https://fantrie.com/"
   },
   {
     "name": "GOODGANG LABS",
@@ -43,5 +33,10 @@
     "name": "SUPERWALK",
     "img": "",
     "link": "https://superwalk.io/"
+  },
+  {
+    "name": "Web3.0 Plants vs Zombies",
+    "img": "https://config.kaia.io/portal/partner-icons/pvz.svg",
+    "link": "https://web3pvz.com/"
   }
 ]
