@@ -2,10 +2,10 @@
   "development": true,
   "staging": true,
   "production": true,
-  "id": "25010701",
-  "message": "Portal points for Epoch#1 rewards have been adjusted. Please note that the actual claim amount may be on average -3% less than the estimated claim amount shown on the Epoch#1 page, although this may vary from person to person.",
+  "id": "25022601",
+  "message": "The launch of Epoch#2 has been rescheduled to ensure a more stable and well-prepared experience. The new date will be announced once finalized.",
   "link": {
-    "KR": "https://bit.ly/4jgIeFI",
-    "EN": "https://bit.ly/40mX7yD"
+    "KR": "https://kaiafoundation.medium.com/kaia-portal-epoch-2-일정-변경-안내-1f910f613817",
+    "EN": "https://kaiafoundation.medium.com/kaia-portal-epoch-2-schedule-update-2c55e0a04bcd"
   }
 }
