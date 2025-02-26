@@ -1,50 +1,58 @@
 [
   {
-    "question": "How can I bridge to Kaia?",
-    "answer": "You can transfer tokens from an external chain to the Kaia chain through the ‘Bridge’ tab on the portal. \n(Both Stargate and Wormhole bridges are supported.) \n\nPlease make sure to check which assets are supported by the liquidity pool of the DEX where you intend to provide liquidity! \n\nFor example, even though it’s the same USDC, ‘USDC sent through Stargate’ and ‘USDC sent through Wormhole’ are treated as different assets."
+    "question": "What is an Epoch?",
+    "answer": "An Epoch is a time-limited airdrop mission where participants can earn Kaia Tokens and Ecosystem Tokens by engaging in Kaia’s on-chain activities. The primary goal of an Epoch is to enhance liquidity within the Kaia Dapp and drive tangible value creation. During each Epoch, you can complete various missions and accumulate points. Once the Epoch ends, token rewards are distributed based on the total points earned."
   },
   {
-    "question": "How can I earn points?",
-    "answer": "You can earn points by participating in missions. \nPoints are calculated and accumulated every hour based on the level of your participation in the missions. \n\nThe more liquidity you provide to participating projects, the more points you can earn. \nIn particular, providing liquidity to pools with higher risks of impermanent loss, such as the KAIA/USDT pair on DEXs, you can earn more points.\n\n*Tip: You can earn points faster by applying the Boost effect. \nThe Boost effect is applied when you hold certain assets or meet various conditions."
+    "question": "When does the current Epoch start and end?",
+    "answer": "The current Epoch (Epoch#2) runs from February 27 to May 28. Epochs are designed to follow a recurring three-month cycle, meaning future Epochs may continue based on the program’s schedule."
   },
   {
-    "question": "What are the point rewards?",
-    "answer": "By providing liquidity to the projects in the Portal Mission, you can receive Kaia points, points from participating projects, D2I program rewards, and DeFi protocol earnings as rewards. \nRegarding Kaia points, the rewards are distributed as follows:\n\nKaia Rewards: Up to 20 million KAIA will be rewarded to general participants based on milestones. \nUp to 30 million KAIA will be rewarded to wallets that participated in the FGP-23 vote in the existing Finschia ecosystem. \nThis reward pool is separate from the general participant pool and is exclusive to wallets that participated in the FGP-23 vote. \nUsers with long-term on-chain contributions in the Finschia ecosystem can receive up to 10 million KAIA in weighted rewards by participating in the Kaia Portal Mission, but they will not receive rewards if they do not participate.\n\n- An initial allocation of 20 million KAIA (10 million to general participants / 10 million to FGP-23 participants) is set aside.\n- If TVL reaches $100M, an additional 15 million KAIA (5 million KAIA to general participants / 10 million KAIA to FGP-23 participants) will be allocated.\n- If TVL reaches $150M, an additional 15 million KAIA (5 million KAIA to general participants / 10 million KAIA to FGP-23 participants) will be allocated.\n\nVesting: Tokens converted at the end of the campaign will be distributed over 6 months. \nWhen the campaign ends and users claim the point conversion (from Kaia points to KAIA tokens), the claimed KAIA tokens will have a 6-month vesting period."
+    "question": "What are Tickets and Points?",
+    "answer": "During an Epoch, you can earn two key assets: Ecosystem Tickets and Ecosystem Points. \n\n- Ecosystem Tickets are earned daily by completing on-chain missions. \n- Ecosystem Points are automatically accumulated when you provide liquidity to designated pools.\n\nEach Ticket and Point is associated with a specific partner project (e.g., Superwalk Ticket, DragonSwap Point). At the end of an Epoch, your accumulated Tickets and Points determine your share of Kaia Tokens and Ecosystem Token rewards."
   },
   {
-    "question": "Where can I claim Kaia points after the Epoch ends?",
-    "answer": "You can claim them by connecting your wallet through the ‘Claim’ menu under the ‘Mission’ tab."
+    "question": "How can I earn Tickets and Points?",
+    "answer": "You can earn Ecosystem Tickets and Ecosystem Points in the following ways: \n\n- Ecosystem Tickets: Earned by completing daily on-chain missions. You must claim them manually after completing the required tasks. \n- Ecosystem Points: Earned automatically by providing liquidity to designated pools. Points accumulate hourly but stop when liquidity is removed."
   },
   {
-    "question": "Is there a set period for claiming Kaia points?",
-    "answer": "Yes. \nPlease be aware of the claimable period after the Epoch ends, and be sure to claim your points within that period. \nOnce the claim period has passed and a new Epoch begins, you will not be able to claim Kaia points accumulated from the previous Epoch."
+    "question": "Do Tickets and Points expire?",
+    "answer": "All Tickets and Points accumulated during an Epoch will be automatically converted into Kaia Tokens and Ecosystem Tokens at the end of the Epoch. However you must claim your token rewards separately. Tickets and Points do not carry over to the next Epoch."
   },
   {
-    "question": "Where can I check and claim project points other than Kaia points?",
-    "answer": "You will soon be able to check each project’s point policies via the updated link. \nProject points can be claimed on the respective project’s page."
+    "question": "Is there a minimum amount required to start earning?",
+    "answer": "Yes. To start earning Tickets and Points, you must meet the following minimum requirements: \n\n- Ecosystem Tickets: You must stake at least $10 worth of the required Ecosystem Token as specified in the Daily Mission. \n- Ecosystem Points: You must provide at least $1 in liquidity to a designated pool to start accumulating Points."
   },
   {
-    "question": "Can Boosts be applied simultaneously?",
-    "answer": "Yes. \nIf you are an early Portal participant (1.2x boost) and receive another 1.2x boost, they will stack, giving you a total boost of 1.44x (1.2 * 1.2)."
+    "question": "Is there a limit to how many Tickets or Points I can earn per day?",
+    "answer": "- Ecosystem Tickets: You can claim one Ticket per Daily Mission each day. \n- Ecosystem Points: There is no limit on how many Points you can earn. Points accumulate automatically based on the amount of liquidity you provide."
   },
   {
-    "question": "When is the Epoch (points accumulation period)?",
-    "answer": "Epoch #1 started on September 26, 2024, and ends on December 25, 2024. And Epoch #2 is not confirmed yet, but it will start before March 2025. "
+    "question": "How do I acquire Kaia tokens or other ecosystem tokens to participate?",
+    "answer": "You can acquire Kaia Tokens and other Ecosystem Tokens through the following methods: \n\n- Buy KAIA Token: Purchase KAIA Tokens with fiat using Alchemy Pay onn the Portal’s Buy menu. \n- Centralized Exchanges (CEX): Trade on platforms like Binance, OKX, and Bithumb. \n- Decentralized Exchanges (DEX): Swap tokens on Kaia ecosystem DEXs such as DragonSwap and Capybara. \n- Bridging from Other Chains: Transfer assets from external chains to the Kaia chain via the Bridge tab on the portal. Both Stargate and Wormhole bridges are supported. \n\nCheck which assets are supported by the liquidity pool before providing liquidity. Even for the same token (e.g. USDC), USDC sent via Stargate and USDC sent via Wormhole are treated as different assets on Kaia’s DeFi ecosystem."
   },
   {
-    "question": "It seems there is an issue with point accumulation. What should I do?",
-    "answer": "Point accumulation may take some time. \nPlease check the accumulation history again after at least an hour. \nIf there is still an issue, please contact us at portal@kaia.io."
+    "question": "How are token rewards calculated?",
+    "answer": "At the end of Epoch#2, rewards are distributed based on accumulated Ecosystem Tickets and Ecosystem Points. A total of up to 5M KAIA tokens and additional Ecosystem Token Rewards from participating projects will be allocated. \n\nDaily Mission Rewards \n- Ecosystem Token Rewards \n- Distributed proportionally based on the number of Tickets collected \n\nLiquidity Mission Rewards \n- Base Rewards: 2.5M KAIA + Ecosystem Token Rewards \n- Unlockable Rewards: \n   First Unlock Based on Total Point → +1.5M KAIA + Ecosystem Token Rewards \n   Second Unlock Based on Total Point → +1M KAIA + Ecosystem Token Rewards \n\nLiquidity rewards are distributed in proportion to Ecosystem Points. Some KAIA and Ecosystem Tokens are also allocated based on total accumulated Points."
   },
   {
-    "question": "I have suggestions regarding the Portal. Where can I submit them?",
-    "answer": "Suggestions are always welcome! \nWhether it’s improvements, bug reports, or any kind of feedback, feel free to report them to portal@kaia.io."
+    "question": "How and when are rewards distributed?",
+    "answer": "All token rewards will be distributed after the Epoch ends, following the announced distribution schedule. \n\n- Rewards will be distributed once per month over a three-month period. \n- Participants must manually claim their rewards through the designated Claim Page. \n\nThe exact distribution timeline will be announced after the Epoch concludes."
   },
   {
-    "question": "I missed the airdrop period. Will there be another chance for airdrops?",
-    "answer": "Yes! \nThere will be more airdrop opportunities and new asset boosts offered throughout the project period."
+    "question": "Where can I claim my rewards?",
+    "answer": "You can claim your token rewards on the Kaia Portal under the Mission → Claim tab. Rewards must be claimed within the designated period."
   },
   {
-    "question": "Am I classified as an abuser in Epcoch#1 mission?",
-    "answer": "There may be individual differences, but the point adjustment may result in a difference of -3% from the expected value. If the difference is not significant, you are not classified as an abuser."
+    "question": "How long do I have to claim my rewards? What happens if I forget?",
+    "answer": "You must claim your rewards within the designated period after the Epoch ends. \n\n- The exact claim deadline will be announced after the Epoch ends. \n- Unclaimed rewards may expire if not claimed within the specified timeframe. \n- Expired rewards cannot be recovered once the claim period has passed. \n\nTo avoid losing your rewards, make sure to claim them on time through the Kaia Portal → Mission → Claim tab."
+  },
+  {
+    "question": "How do Boosts work? Can they be stacked?",
+    "answer": "There are two types of Boosts in Epoch#2: \n\n- Epoch#1 LP Boost: For accounts that accumulated Portal Points in Epoch#1. Grants a 1.1x multiplier on Ecosystem Points. \n- Early Access Boost: For users who pre-registered during the Early Access period. Grants a 1.05x multiplier on Ecosystem Points. \n\nBoosts cannot be stacked. If eligible for both, only the higher Boost will apply."
+  },
+  {
+    "question": "What should I do if my Points are not accumulating correctly?",
+    "answer": "Point accumulation may take some time. Please check the accumulation history again after at least an hour. If there is still an issue, please contact us at portal@kaia.io."
   }
 ]
