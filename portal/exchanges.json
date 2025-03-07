@@ -1,37 +1,36 @@
 {
-   "items":[
-      {
-         "name":"Binance",
-         "url":"https://www.binance.com/trade/KLAY_USDT"
-      },
-      {
-         "name":"OKX",
-         "url":"https://www.okx.com/trade-spot/klay-usdt"
-      },
-      {
-         "name":"Bybit",
-         "url":"https://www.bybit.com/trade/usdt/KLAYUSDT"
-      },
-      {
-         "name":"HTX",
-         "url":"https://www.htx.com/trade/klay_usdt"
-      },
-      {
-         "name":"Bitget",
-         "url":"https://www.bitget.com/asia/spot/KLAYUSDT"
-      },
-      {
-         "name":"Bithumb",
-         "url":"https://www.bithumb.com/react/trade/order/KLAY-BTC"
-      },
-      {
-         "name":"Coinone",
-         "url":"https://coinone.co.kr/exchange/trade/klay"
-      }
-   ],
-   "others":{
-      "name":"Find Others on CoinMarketCap",
-      "url":"https://coinmarketcap.com/currencies/klaytn/#Markets"
-   }
+  "items": [
+    {
+      "name": "Binance",
+      "url": "https://www.binance.com/trade/KAIA_USDT"
+    },
+    {
+      "name": "OKX",
+      "url": "https://www.okx.com/trade-spot/kaia-usdt"
+    },
+    {
+      "name": "Bybit",
+      "url": "https://www.bybit.com/trade/usdt/KAIAUSDT"
+    },
+    {
+      "name": "HTX",
+      "url": "https://www.htx.com/trade/kaia_usdt"
+    },
+    {
+      "name": "Bitget",
+      "url": "https://www.bitget.com/asia/spot/KAIAUSDT"
+    },
+    {
+      "name": "Bithumb",
+      "url": "https://www.bithumb.com/react/trade/order/KAIA-BTC"
+    },
+    {
+      "name": "Coinone",
+      "url": "https://coinone.co.kr/exchange/trade/kaia"
+    }
+  ],
+  "others": {
+    "name": "Find Others on CoinMarketCap",
+    "url": "https://coinmarketcap.com/currencies/kaia/#Markets"
+  }
 }
-
