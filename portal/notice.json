@@ -1,7 +1,7 @@
 {
-  "development": true,
-  "staging": true,
-  "production": true,
+  "development": false,
+  "staging": false,
+  "production": false,
   "id": "25022601",
   "message": "The launch of Epoch#2 has been rescheduled to ensure a more stable and well-prepared experience. The new date will be announced once finalized.",
   "link": {
