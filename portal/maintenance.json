@@ -1,7 +1,7 @@
 {
   "development": false,
   "staging": false,
-  "production": false,
+  "production": true,
   "title": "Maintenance in Progress",
   "message": "System maintenance is underway. Apologies for the inconvenience."
 }
