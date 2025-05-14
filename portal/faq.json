@@ -5,7 +5,7 @@
   },
   {
     "question": "When does the current Epoch start and end?",
-    "answer": "The current Epoch (Epoch#2) runs from February 27 to May 28. Epochs are designed to follow a recurring three-month cycle, meaning future Epochs may continue based on the program’s schedule."
+    "answer": "The current Epoch (Epoch#2) runs from May 14 to August 13. Epochs are designed to follow a recurring three-month cycle, meaning future Epochs may continue based on the program’s schedule."
   },
   {
     "question": "What are Tickets and Points?",
@@ -25,15 +25,15 @@
   },
   {
     "question": "Is there a limit to how many Tickets or Points I can earn per day?",
-    "answer": "- Ecosystem Tickets: You can claim one Ticket per Daily Mission each day. \n- Ecosystem Points: There is no limit on how many Points you can earn. Points accumulate automatically based on the amount of liquidity you provide."
+    "answer": "- Ecosystem Tickets: You can claim one Ticket per Daily Mission each day.\n- Ecosystem Points: There is no limit on how many Points you can earn. Points accumulate automatically based on the amount of liquidity you provide."
   },
   {
     "question": "How do I acquire Kaia tokens or other ecosystem tokens to participate?",
-    "answer": "You can acquire Kaia Tokens and other Ecosystem Tokens through the following methods: \n\n- Buy KAIA Token: Purchase KAIA Tokens with fiat using Alchemy Pay onn the Portal’s Buy menu. \n- Centralized Exchanges (CEX): Trade on platforms like Binance, OKX, and Bithumb. \n- Decentralized Exchanges (DEX): Swap tokens on Kaia ecosystem DEXs such as DragonSwap and Capybara. \n- Bridging from Other Chains: Transfer assets from external chains to the Kaia chain via the Bridge tab on the portal. Both Stargate and Wormhole bridges are supported. \n\nCheck which assets are supported by the liquidity pool before providing liquidity. Even for the same token (e.g. USDC), USDC sent via Stargate and USDC sent via Wormhole are treated as different assets on Kaia’s DeFi ecosystem."
+    "answer": "You can acquire Kaia Tokens and other Ecosystem Tokens through the following methods:\n\n- Buy KAIA Token: Purchase KAIA Tokens with fiat using Alchemy Pay onn the Portal’s Buy menu.\n- Centralized Exchanges (CEX): Trade on platforms like Binance, OKX, and Bithumb.\n- Decentralized Exchanges (DEX): Swap tokens on Kaia ecosystem DEXs such as DragonSwap and Capybara.\n- Bridging from Other Chains: Transfer assets from external chains to the Kaia chain via the Bridge tab on the portal. Both Stargate and Wormhole bridges are supported. \n\nCheck which assets are supported by the liquidity pool before providing liquidity. Even for the same token (e.g. USDC), USDC sent via Stargate and USDC sent via Wormhole are treated as different assets on Kaia’s DeFi ecosystem."
   },
   {
     "question": "How are token rewards calculated?",
-    "answer": "At the end of Epoch#2, rewards are distributed based on accumulated Ecosystem Tickets and Ecosystem Points. A total of up to 5M KAIA tokens and additional Ecosystem Token Rewards from participating projects will be allocated. \n\nDaily Mission Rewards \n- Ecosystem Token Rewards \n- Distributed proportionally based on the number of Tickets collected \n\nLiquidity Mission Rewards \n- Base Rewards: 2.5M KAIA + Ecosystem Token Rewards \n- Unlockable Rewards: \n   First Unlock Based on Total Point → +1.5M KAIA + Ecosystem Token Rewards \n   Second Unlock Based on Total Point → +1M KAIA + Ecosystem Token Rewards \n\nLiquidity rewards are distributed in proportion to Ecosystem Points. Some KAIA and Ecosystem Tokens are also allocated based on total accumulated Points."
+    "answer": "At the end of Epoch#2, rewards are distributed based on accumulated Ecosystem Tickets and Ecosystem Points. A total of up to 5M KAIA tokens and additional Ecosystem Token Rewards from participating projects will be allocated. \n\nDaily Mission Rewards \n- Ecosystem Token Rewards \n- Distributed proportionally based on the number of Tickets collected \n\nLiquidity Mission Rewards \n- Base Rewards: 2.5M KAIA + Ecosystem Token Rewards \n- Unlockable Rewards: \n   First Unlock Based on Total Point → +1.25M KAIA + Ecosystem Token Rewards \n   Second Unlock Based on Total Point → +1.25M KAIA + Ecosystem Token Rewards \n\nLiquidity rewards are distributed in proportion to Ecosystem Points. Some KAIA and Ecosystem Tokens are also allocated based on total accumulated Points."
   },
   {
     "question": "How and when are rewards distributed?",
