@@ -1,11 +1,11 @@
 {
-  "development": false,
-  "staging": false,
-  "production": false,
-  "id": "25022601",
-  "message": "The launch of Epoch#2 has been rescheduled to ensure a more stable and well-prepared experience. The new date will be announced once finalized.",
+  "development": true,
+  "staging": true,
+  "production": true,
+  "id": "25051401",
+  "message": "Kaia Portal Epoch#2 is now live!\nCheck out the details for Epoch#2 at the link!\n(The native USDT required for the mission can be obtained from the swap menu.)",
   "link": {
-    "KR": "https://kaiafoundation.medium.com/kaia-portal-epoch-2-일정-변경-안내-1f910f613817",
-    "EN": "https://kaiafoundation.medium.com/kaia-portal-epoch-2-schedule-update-2c55e0a04bcd"
+    "KR": "",
+    "EN": "https://medium.com/kaiachain/kaia-portal-epoch-2-is-now-live-9a102079df92"
   }
 }
